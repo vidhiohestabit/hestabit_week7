@@ -111,7 +111,7 @@ export GROQ_API_KEY=your_api_key_here
 Run:
 
 ```bash
-python database/setup_db.py
+python database/sample_db.py
 ```
 
 This will create:
