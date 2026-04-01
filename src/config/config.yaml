@@ -1,0 +1,6 @@
+chunk_size: 700
+chunk_overlap: 50
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+vectorstore_path: ../vectorstore/index.faiss
+metadata_keys: ["source", "page_number", "tags"]
+
